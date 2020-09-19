@@ -1,0 +1,3 @@
+[submodule "supervised/image_classifcation/Cats_Vs_Dogs_Classification"]
+	path = supervised/image_classifcation/Cats_Vs_Dogs_Classification
+	url = git@gitlab.com:SB-Jr/Cats_Vs_Dogs_Classification.git
