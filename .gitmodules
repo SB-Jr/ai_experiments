@@ -1,3 +1,6 @@
 [submodule "supervised/image_classifcation/Cats_Vs_Dogs_Classification"]
 	path = supervised/image_classifcation/Cats_Vs_Dogs_Classification
 	url = git@gitlab.com:SB-Jr/Cats_Vs_Dogs_Classification.git
+[submodule "supervised/image_classifcation/gameplay_texture_classifier"]
+	path = supervised/image_classifcation/gameplay_texture_classifier
+	url = git@gitlab.com:SB-Jr/gameplay_texture_classifier.git
