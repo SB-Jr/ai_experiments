@@ -1,3 +1,7 @@
 # saved checkpoints of jupterlab notebooks
 *.virtual_documents/
 *.ipynb_checkpoints/
+
+**__pycache__**
+
+**dataset**
