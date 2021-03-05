@@ -2,6 +2,19 @@
 *.virtual_documents/
 *.ipynb_checkpoints/
 
+# python cache files
 **__pycache__**
 
+# dataset files
 **dataset**
+**.record**
+
+# archives
+**.tar.gz**
+
+# model checkpoints
+**tfevents**
+**checkpoint**
+
+# misc
+.directory
